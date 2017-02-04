@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv;
     ImageView imageview;
     String s;
-    Handler handler3 = new Handler();
+    Handler handler4 = new Handler();
     String action = "http://192.168.0.105/Mytest/post.php";
     String url = "http://192.168.0.105/Mytest/post.php";//发送请求的地址
     OkHttpClient client;
